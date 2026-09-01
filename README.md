@@ -1,5 +1,5 @@
 # Portfolio
-Personal portfolio website: https://jackhibb.github.io/jackhibbard-portfolio1/
+Personal portfolio website: https://jackhibb.github.io/portfolio/
 
 What I changed
 Rewrote the headline and About section in my own words. The draft did not say what I want to do after Miami, so I made it explicit: analytics role after May 2027, sports analytics long term, and what I am doing now to get there.
